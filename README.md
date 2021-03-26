@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is a test
 
-README.md file was updated. This file was modified locally
+This line was modified manually during conflict resolution
